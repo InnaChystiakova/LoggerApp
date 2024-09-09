@@ -1,0 +1,15 @@
+{
+  "originHash" : "ff3aaf5f3424f1047e876adf79703b14390a495daccd3fca57c6049c657dce90",
+  "pins" : [
+    {
+      "identity" : "mobilelogginsdkpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/InnaChystiakova/MobileLogginSDKPackage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e45524231f10c5ef6333ee809ee8c12d5a97fbd1"
+      }
+    }
+  ],
+  "version" : 3
+}
